@@ -7,6 +7,6 @@ Pour vous connecter au serveur, dans le chat pricipal, tapez :
 ```
 Pour executer une commande :
 ```
-/cmd <Votre commande>
+cmd <Votre commande>
 ```
-PS : Il peu arriver que vous n'arriviez pas à executer une commande du type ```/kick``` et que le serveur refuse votre demande, dans ce cas là, c'est juste que vos privilèges sur votre compte en jeu sont issufisants.
+PS : Il peu arriver que vous n'arriviez pas à executer une commande du type ```kick``` et que le serveur refuse votre demande, dans ce cas là, c'est juste que vos privilèges sur votre compte en jeu sont issufisants.
